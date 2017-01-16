@@ -24,7 +24,7 @@ if (!is_null($events['events'])) {
 			];
 			}
 			
-			elseif ($text == 'Who'){
+			else if ($text == 'Who'){
 			// Build message to reply back
 			$messages = [
 				'type' => 'text',
@@ -35,6 +35,7 @@ if (!is_null($events['events'])) {
 				$messages = [
 				'type' => 'text',
 				'text' => $text
+			];
 			}
 
 			// Make a POST Request to Messaging API to reply to sender
