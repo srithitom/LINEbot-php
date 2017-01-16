@@ -16,11 +16,19 @@ if (!is_null($events['events'])) {
 			// Get replyToken
 			$replyToken = $event['replyToken'];
 
-			if ($text == 'อะไร'){
+			if ($text == 'Hi'){
 			// Build message to reply back
 			$messages = [
 				'type' => 'text',
-				'text' => 'what'
+				'text' => 'Hi, sir.'
+			];
+			}
+			
+			if ($text == 'Who'){
+			// Build message to reply back
+			$messages = [
+				'type' => 'text',
+				'text' => 'I am a bot.'
 			];
 			}
 
