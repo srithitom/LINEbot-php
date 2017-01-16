@@ -24,12 +24,17 @@ if (!is_null($events['events'])) {
 			];
 			}
 			
-			if ($text == 'Who'){
+			elseif ($text == 'Who'){
 			// Build message to reply back
 			$messages = [
 				'type' => 'text',
 				'text' => 'I am a bot.'
 			];
+			}
+			else{
+				$messages = [
+				'type' => 'text',
+				'text' => $text
 			}
 
 			// Make a POST Request to Messaging API to reply to sender
