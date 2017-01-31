@@ -45,7 +45,7 @@ if (!is_null($events['events'])) {
 			// Build message to reply back
 			$messages = [
   			      'type' => 'image',
- 				'originalContentUrl' => 'https://www.youtube.com/watch?v=drLEDpKKQz0',
+ 				'originalContentUrl' => 'http://dc733.4shared.com/img/ae0HFE0ice/766d2347/dlink__2Fdownload_2Fae0HFE0ice_3Fsbsr_3D4a04fd9818ab21ce9ef0faf04f34be5e998_26bip_3DMTE4LjE3Mi4xNjUuMTc4_26lgfp_3D1000_26dsid_3D1eyb4q.3a707cdf75a1a86c9c5542118bdc8dcc_26bip_3DMTE4LjE3Mi4xNjUuMTc4_26bip_3DMTE4LjE3Mi4xNjUuMTc4/preview.mp4?allowAbusiveContent=true&cuid=85581530&cupa=6a5c712e60157d92a5b8245c5f45c7aa',
   				'previewImageUrl' => 'https://raw.githubusercontent.com/kittinan/Sample-Line-Bot/master/images/beer_preview.jpg',
   		 	];
 			}
