@@ -32,15 +32,6 @@ if (!is_null($events['events'])) {
 			];
 			}
 			
-			else if ($text == 'Pic'){
-			// Build message to reply back
-			$messages = [
-				"type": "image",
-    				"originalContentUrl": "http://tech.gc.com/images/gc.png",
-    				"previewImageUrl": "http://www.gavincurtis.com/Site%20Images/GC%20Favicon.jpg"
-			];
-			}
-			
 			else{
 				$messages = [
 				'type' => 'text',
