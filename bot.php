@@ -41,6 +41,15 @@ if (!is_null($events['events'])) {
   		 	];
 			}
 			
+			else if ($text == 'Pic'){
+			// Build message to reply back
+			$messages = [
+  			      'type' => 'image',
+ 				'originalContentUrl' => 'https://www.youtube.com/watch?v=drLEDpKKQz0',
+  				'previewImageUrl' => 'https://raw.githubusercontent.com/kittinan/Sample-Line-Bot/master/images/beer_preview.jpg',
+  		 	];
+			}
+			
 			else{
 				$messages = [
 				'type' => 'text',
