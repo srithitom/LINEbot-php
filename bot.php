@@ -41,7 +41,7 @@ if (!is_null($events['events'])) {
   		 	];
 			}
 			
-			else if ($text == 'Pic'){
+			else if ($text == 'Vid'){
 			// Build message to reply back
 			$messages = [
   			      'type' => 'image',
