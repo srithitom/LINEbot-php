@@ -37,7 +37,7 @@ if (!is_null($events['events'])) {
 			$messages = [
   			      'type' => 'image',
  				'originalContentUrl' => 'https://lh3.googleusercontent.com/27aWy_6DAMilWHuWnSazb8Znu-xSG_GDpgp6MIuwvT1NkoGFFPRB0Ohd-tO4TZvahGEy9SCPts2e1oU5GOfC1uzz87q-xfJgSCNEW0A8e2iSol_8VDq4fLekb-sbV8dcKrcu8NsQKEuxHZQ4ATHgcvrEErIQMc_tt1chJ78CVP8NPPaLs0qZwjzPAA-U4T1Y2V_sHEvG6-O6xQ4k5RnI33vQLFuv_BlLNoUoYKSaAbsV2lkqOkaIjqrCUw_XefEcS0C-c9BSEYQ_GJrFnLwjI_yKCu8eCs1CeHLClRrcmYwhRLYTGk6aqPympxt6VVZqRA0yg3OfmHwMWiSoRi2BTIGccdHgvVL6rMWicj7T8vbKDQ_LCYIi7K9MB_cFyBVawKT2Q83CF4PFeDgE1EGdredtXEBhzw0NJTN9A9AJ4MYbKRBwoT5Yi-NlloMaY-WHksKICAv5OxsRd0ZTL1k8bC8vONb9XLwfYhHBmZrIIZ-rk6Z3ytoIB3IajCpOlHUR156aH0A-vTwJujFoOgUwaKuxiWbgKGCknjPdUeVN72AzhA1v-81XKVHvSpCxsbFnkVCE14Wr26jMYqw08dVKKzg01fY-fjJr4KNJGf3MYYEbZsC5Y3zK=w540-h360-no',
-  				'previewImageUrl' => 'https://raw.githubusercontent.com/kittinan/Sample-Line-Bot/master/images/beer_preview.jpg',
+  				'previewImageUrl' => 'https://www.mx7.com/view2/zGciyY55QvxRGwYC',
   		 	];
 			}
 			
