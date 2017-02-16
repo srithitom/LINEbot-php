@@ -36,7 +36,7 @@ if (!is_null($events['events'])) {
 			// Build message to reply back
 			$messages = [
   			      'type' => 'image',
- 				'originalContentUrl' => 'https://i.ytimg.com/vi/eaaPW7NU45c/maxresdefault.jpg',
+ 				'originalContentUrl' => 'https://goo.gl/photos/NV3VhQFytYr9nEz6A',
   				'previewImageUrl' => 'https://raw.githubusercontent.com/kittinan/Sample-Line-Bot/master/images/beer_preview.jpg',
   		 	];
 			}
