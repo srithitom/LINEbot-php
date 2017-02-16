@@ -41,6 +41,15 @@ if (!is_null($events['events'])) {
   		 	];
 			}
 			
+			else if ($text == 'Cartoon'){
+			// Build message to reply back
+			$messages = [
+  			      'type' => 'image',
+ 				'originalContentUrl' => 'https://lh3.googleusercontent.com/C0tQphFWi7M9kZubBqnrQlJ6UOGuVesgYfsrQQEqtp8YDB_iXVBbpTeKQ5DsMD61ub3CFzmlbDpyPwDrXQ7ivThRG_3MtDHtZQ2mVegMMO1L74IcDA4TxZJqOomr3HFEy46db02rfzKeQIqX6AQ7d_9_lWbkb4cTPBtPfuRt6BArGK8JzCIFSiwTaEZ_2DoKgyfSw1EnG9RkQYQ7J6HxYEBjfjZcPso1KZOk7xVb4jrzwU3gVsjbGffDVWykpJjxBaVpS1nLH0sp7d9kAbmL1Lf_ll_KGVyOvynowAtzqdKQmaGNOkpdhmaYpgicGtfubTCfsTvwYgseffuDwe4BBdIkAO6i5sYq6h8WeIi9qpBRiIav2AhJGiuaQns8BeAcnpPszG_H-C7HWqufE9K50T2nFIq6e9kUsBJrskrmhP-qzaa0rwiHkFc8mja12yHPHAtpCW2P0GI5RCabVCuV4N5jy2nNXKLsJl1DCeO6H1VVCuSv5My2F6P3Tl5TFbF3tO6iXoQopd2GGG6tpkAZaMWMflSwpZq9Ztu87-8xkh5R0E5JxZETSKz0HLE3I9ZcS13XqNMGq4QpctGxwGRoXDvVqgdjbsG1Njlvvh5BNQkpvBX1=w1135-h638-no',
+  				'previewImageUrl' => 'https://lh3.googleusercontent.com/GGkjFtyfbURVbevcchCCCzqXB82WCLJVoDriTWJhRik82r--ZCSVdhVhWQcl058WgOpVNagXVjlzdFBYaXcS8B12jAuzh69RZ2_mWHWq1UmiH9jg_cBeM33kN3GYn-o_o35l6AfqILuDiKshDxmFtYaL3G6t-ODi9Vskj5jI-MPC0oqAesNTZAS6IKOSpF74FdGtZ_7MP8u0s-9V9jngGSdvvp54WaWpq6W_AvRQUx2Z60lgitbueumI9tm2C7T4Ku_4SIVn6sQxLZ3sfyve5HvRlOHxGCS3QLN7lJ_HxU1qzilRTwcqjQg0kSXgj4CSyLlO-u-9cTkcFsy4u1cIKxr0cxMIMRueEuUtSXx8R6eMgURYOJVL7ISsd_mRa_uAX8sI0fYdZDToTK-L5Ecl24nfofQifwhtJVHDfXEU7go6HwNrtzpfsaVp75e6R1hWtEc168f6p3X6A2hEArgN6p_wzhBR3hR2CPmgWGuc1UnCaE4WA72f4cXVB1EhSrFewMZFXaIMersScRZWn0vWa8x7BmeU6Wf32ReBEEqeahlK7DWvFtVnIbibdnaKNINWv2QyNvWPUX9O6UY67W834bAMcEeRGtPA6wjmMXz-bHuebmiUr-MO=w240-h180-no',
+  		 	];
+			}
+			
 			else{
 				$messages = [
 				'type' => 'text',
