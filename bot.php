@@ -41,14 +41,6 @@ if (!is_null($events['events'])) {
   		 	];
 			}
 			
-			else if ($text == 'Cartoon'){
-			// Build message to reply back
-			$messages = [
-  			      'type' => 'image',
- 				'originalContentUrl' => 'https://lh3.googleusercontent.com/C0tQphFWi7M9kZubBqnrQlJ6UOGuVesgYfsrQQEqtp8YDB_iXVBbpTeKQ5DsMD61ub3CFzmlbDpyPwDrXQ7ivThRG_3MtDHtZQ2mVegMMO1L74IcDA4TxZJqOomr3HFEy46db02rfzKeQIqX6AQ7d_9_lWbkb4cTPBtPfuRt6BArGK8JzCIFSiwTaEZ_2DoKgyfSw1EnG9RkQYQ7J6HxYEBjfjZcPso1KZOk7xVb4jrzwU3gVsjbGffDVWykpJjxBaVpS1nLH0sp7d9kAbmL1Lf_ll_KGVyOvynowAtzqdKQmaGNOkpdhmaYpgicGtfubTCfsTvwYgseffuDwe4BBdIkAO6i5sYq6h8WeIi9qpBRiIav2AhJGiuaQns8BeAcnpPszG_H-C7HWqufE9K50T2nFIq6e9kUsBJrskrmhP-qzaa0rwiHkFc8mja12yHPHAtpCW2P0GI5RCabVCuV4N5jy2nNXKLsJl1DCeO6H1VVCuSv5My2F6P3Tl5TFbF3tO6iXoQopd2GGG6tpkAZaMWMflSwpZq9Ztu87-8xkh5R0E5JxZETSKz0HLE3I9ZcS13XqNMGq4QpctGxwGRoXDvVqgdjbsG1Njlvvh5BNQkpvBX1=w1135-h638-no',
-  				'previewImageUrl' => 'https://www.img.in.th/images/af9972bd5adba50ca6098f6073e05899.jpg',
-  		 	];
-			}
 			
 			else{
 				$messages = [
