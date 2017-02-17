@@ -36,7 +36,7 @@ if (!is_null($events['events'])) {
 			// Build message to reply back
 			$messages = [
   			      'type' => 'image',
- 				'originalContentUrl' => 'https://lh3.googleusercontent.com/n3I0SqN6-zLUEA7fa6gT9BVplB960OoR8RcdiR8PUi5iF2wkx3kN6u92DABUMhHk20Si1mkLnbN4-vaTbMbpTXd1X0292xqUjz2RtuHr_xGugqiJGHKFdMMx7YN5Qvht0UumaDy6vSuoCzRnVR28pxs164Sq-0RMYFiiG3Xx_vCbTECPLR54578viBp2w2kWyLvCi5iNAGAlv07-JUOTovXZnoDA2TUHsUk7i_8WoVZPf7_kvZUQSKXBZy2DvzuVXbwsbCAZviQdkuhVFuNozRN1jxSCierbrWrvnkSeH9_3BQQxn9924ySLGx1FVr1D_2A7LFot6OosGybQ74BDYM12g72xfMYmpX2WVOxxUpMyiLKJsuQYcODQLOCyTVq5p2Q9GW3xHYpZc7TEC4Uqrr41PpHaMdT7FaNDzFoqNZV6p93gTowAO74VNLnqCGcESjB7bgPaXneOzCYTcW_ojbtQWUnxtXaKF8eaBMmZdflrqDqMPpoxGAp4WEEgeM4_uJr0ZyHDou6NxV98yRdMHV2PksMJJcsng6w11o2IgmK2w-4IxbhHNHOrrXkTdq5GiUReFUlp_I-gCUeGft6hCTkiV88PiHYBd55ncdjc-Q0jnFFZpnc5=w931-h513-no',
+ 				'originalContentUrl' => 'https://lh3.googleusercontent.com/gjoii3mMR8LlqDvjy2NN6X-BwkDvWV6AjaCpu0CEj5JltViy3Sm8KtuUubTu91OnarXgEwDKN_r9vWXGBJfeV-vMxwXA9maxaZxvAyvXQSSZweavSOe5E22sxNKhSMsHdMI1PQIc5oIRcX0SVNKXTz7BgHvrziEAY5aZRKSR9N_XP55BiQrekVvHQgggSZCsfIj3QyOFJlrK4ME4nyKv3SqLQVMO0Wp8XoSJC8v3F6rdxDNjdCFxJOwRuzsrVTBc3ktBBtiCFc4dvDmPGTxqm-ug0bbKBmZw6S-0FwUmzG_HMpkoVNU2cXYqnlwDPnCRR9bXFCAKab25qlZJHPYJq6knb1HVBU_LBphhVstWSySURF8JcNd7fCfmoDRWBB5yvtAYYyVUHe9IoazQ_f-ENc3GvwnvDNPKCn6n7JfPm3e50NU6LiKq_y1MdC4LcnhpgTUyaWm9uU7lGsD8Fw2WQwseQuTmxMcHz3_uUB6GLxVUEy877cKPJs5n71m-v4NYbc8hKn8C-rNxCW_7VD-J28x4ehrXhljynVEL4Je3zFJSjWQdMo69H-KIYDvRU4PE-exFiVcFyixfykaNWkGrH23utMPWelDOOY7d9TplooGi95oA1zd3=w931-h513-no',
   				'previewImageUrl' => 'https://www.img.in.th/images/af9972bd5adba50ca6098f6073e05899.jpg',
   		 	];
 			}
