@@ -34,7 +34,16 @@ if (!is_null($events['events'])) {
 			// Build message to reply back
 			$messages = [
   			      'type' => 'image',
- 				'originalContentUrl' => 'https://lh3.googleusercontent.com/xh7P8uFc4MzYaYpzgDC8eguUbkRELqqdrOCqjTHsgtAw-G9OY1poRliRgqRx6lZ4ecuKsML3sLFA_xFEiAJ5116ufH93Gllh6XX1wtn2ITunZniYdgN5q1g66_reg60BZeyjZG7c9eqjYHimquSxW3cDAUlFuGyNM9WqpR1t-hG9BY9UPO5TF3Y_PfuZ0TXiNIfLZSKb3wWKXIbDIFZ5lseu8pOgTUxKpxcLKtfHJpftILwNZMnYRFOM_nW1_qV0BM7jUL9RpXhYkJZNyyI7HzgUBcSdpVHCSicqZQk8Ygd91Zk52ekuC-5dfRUGfTxYlUpGb6iqrbIikQfA8eL5Eo38l5N5I-loF32YZFRkRvkjpT6hBqBx9MeOB4ue5KTOaqT2Fa-l6L4zXkwAILwFmM3NObzLwCianHJACmN3J4_llo__Ff78jWl-nxszxtJpr_Hn7KLob2iK7Nuy8mD6VNcq9D3IjlMNBN8Wo1Q8woCCPLfEoL2MEdJcTkUAwLlOgJqIeK79u9PIgAsY1JLC9VgqF99ditIjVy7wOLUmDDi0H_ieBEvy3cWVcKSV0nVZGyPWhamM40GrxHA8T9-LhscMdigEUlBvACsk37ktylR0OV_4gAF_=w500-h401-no',
+ 				'originalContentUrl' => 'https://lh3.googleusercontent.com/u_4R3UgCNdYKjWuUJls9oILZT5jMkC7aQV0GGgq6quq2FupJXToDHplU7eRftE046W4mlLyYLtO_1exwAjEFBco6JPL8mtTY_TICqHXWKwL39NVbvRiDAQjC6Bn7chYP9cE5mlEfJclRQy9ro7_a36UQzapkFW3heXYwZxiGFjFq0LYJY6LkzfBwHwjkDTtQFpnp3eX-7O0kK5MDeAmnrld7uotgLuVqTisgztPZgmGEGUTlq9ZmGrYJVoKeaGz2tM8O_y8iDnqw4HVQmlz7WRuZ_obVn6Qj7ytAz4lt9chvaiY4HEbqhpIsCzmfrjLs7na-277-V9gSHFpYVXJXL5CSpXocBKrdhz82J_I4EMTBx096WV0NpmRRAV0aNe2dqNgXht4_0SMHLqMz3D0XAiO7sLOsPPF7crdpM7Xlb-aGsSM3FLBvmNxWVFXrXv9r8WfQn8iuGWMqKwdt3LY9MdDiWegBngKqA8m4ot7gcp_Eu1dQVUHZ7qdWjdubbnqOOqk9jsIQXdkUeEoqXaQmtrbt6kCeGH-BsSYGgxsqAdBKzAEWPvdJY9KHnZLl3_LMUZ-FDnrv9lkV76MYS6qzT1tGG0NKA9UPpe0SDQLGGQiiopWgPm0w=w1006-h629-no',
+  				'previewImageUrl' => 'https://www.img.in.th/images/af9972bd5adba50ca6098f6073e05899.jpg',
+  		 	];
+			}
+			
+			else if ($text == 'Img'){
+			// Build message to reply back
+			$messages = [
+  			      'type' => 'image',
+ 				'originalContentUrl' => 'https://lh3.googleusercontent.com/8Sr3TCa5AT7hckLdHl9Ut_lMlfyqNpr4sd69xVMccf8Y0mJUk8CO2POENP64chxqBEcEG_WLNmFqZtkBZa03YPThFV4yZpWvWglkkesVSKksyYcOgDEZ1-owzTL89Tdz6d2Tb5Y08Zi0Mm5SnC8-3xTfK5UDXJULV5j3Jiqm6E4zjKfOinwnXjwj2kr-kzFENqAX2G2h62ErmEGbRig79-gPAGBQOMptaQKcy68IR4uBigTaoDJszx8dWQhxqJ8hWtSWspT57f62JcWYh-jvsLrcRuG9Sf5rsv1DKCRUzofC4aQFztLhUaHHeuf7Rd9h_l0zBu9iPte1U5jHxjRsOMeahHRxpfH7pnstf2XPQXfUFAzP--TSCS5rIHjTIdhhXAUQ7QW3aKp9nmcoKJ7nMMHYoEHVs20mGCO0Ltnv54RnaHbVUmppXsy1vVeFApoNCssk0R65caFYOV64D3f9ORU_mn746Dp3X9ycleXp6J0SKEgHQO2K-cvIOI5IIV0JCGcrvh_qrhB8v8ONT_FJygFh-wPnb1GvbFqcY4ViiClkHCHDmmRjqYv5nXBvZGyONDs-qp80NdHXsVlMKqBAgN0uCj3V5Mf64kTwU2HRjc1EAg-8TaIl=w1006-h629-no',
   				'previewImageUrl' => 'https://www.img.in.th/images/af9972bd5adba50ca6098f6073e05899.jpg',
   		 	];
 			}
