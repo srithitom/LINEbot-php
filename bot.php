@@ -34,7 +34,7 @@ if (!is_null($events['events'])) {
 			// Build message to reply back
 			$messages = [
   			      'type' => 'image',
- 				'originalContentUrl' => 'https://lh3.googleusercontent.com/u_4R3UgCNdYKjWuUJls9oILZT5jMkC7aQV0GGgq6quq2FupJXToDHplU7eRftE046W4mlLyYLtO_1exwAjEFBco6JPL8mtTY_TICqHXWKwL39NVbvRiDAQjC6Bn7chYP9cE5mlEfJclRQy9ro7_a36UQzapkFW3heXYwZxiGFjFq0LYJY6LkzfBwHwjkDTtQFpnp3eX-7O0kK5MDeAmnrld7uotgLuVqTisgztPZgmGEGUTlq9ZmGrYJVoKeaGz2tM8O_y8iDnqw4HVQmlz7WRuZ_obVn6Qj7ytAz4lt9chvaiY4HEbqhpIsCzmfrjLs7na-277-V9gSHFpYVXJXL5CSpXocBKrdhz82J_I4EMTBx096WV0NpmRRAV0aNe2dqNgXht4_0SMHLqMz3D0XAiO7sLOsPPF7crdpM7Xlb-aGsSM3FLBvmNxWVFXrXv9r8WfQn8iuGWMqKwdt3LY9MdDiWegBngKqA8m4ot7gcp_Eu1dQVUHZ7qdWjdubbnqOOqk9jsIQXdkUeEoqXaQmtrbt6kCeGH-BsSYGgxsqAdBKzAEWPvdJY9KHnZLl3_LMUZ-FDnrv9lkV76MYS6qzT1tGG0NKA9UPpe0SDQLGGQiiopWgPm0w=w1006-h629-no',
+ 				'originalContentUrl' => 'https://photos.app.goo.gl/f23Zj7ZyTKG2yp863',
   				'previewImageUrl' => 'https://www.img.in.th/images/af9972bd5adba50ca6098f6073e05899.jpg',
   		 	];
 			}
