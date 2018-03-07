@@ -30,11 +30,11 @@ if (!is_null($events['events'])) {
 			];
 			}
 			
-			else if ($text == 'สมัคร'){
+			else if ($text == 'log'){
 			// Build message to reply back
 			$messages = [
 				'type' => 'text',
-				'text' => 'ต้องการเป็นสมาชิก?'
+				'text' => 'logout'
 			];
 			}
 			
