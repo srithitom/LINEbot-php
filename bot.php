@@ -30,6 +30,14 @@ if (!is_null($events['events'])) {
 			];
 			}
 			
+			else if ($text == 'สมัคร'){
+			// Build message to reply back
+			$messages = [
+				'type' => 'text',
+				'text' => 'ต้องการเป็นสมาชิก?'
+			];
+			}
+			
 			else if ($text == 'Pic'){
 			// Build message to reply back
 			$messages = [
