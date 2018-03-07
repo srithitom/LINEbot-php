@@ -14,7 +14,7 @@ if (!is_null($events['events'])) {
 			$text = $event['message']['text'];
 			// Get replyToken
 			$replyToken = $event['replyToken'];
-			if ($text == 'Hi'){
+			if ($text == 'Log'){
 			// Build message to reply back
 			$messages = [
 				'type' => 'text',
@@ -27,14 +27,6 @@ if (!is_null($events['events'])) {
 			$messages = [
 				'type' => 'text',
 				'text' => 'I am a bot.'
-			];
-			}
-			
-			else if ($text == 'log'){
-			// Build message to reply back
-			$messages = [
-				'type' => 'text',
-				'text' => 'logout'
 			];
 			}
 			
