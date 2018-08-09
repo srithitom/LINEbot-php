@@ -35,7 +35,7 @@ if (!is_null($events['events'])) {
 			$messages = [
   			      'type' => 'image',
  				'originalContentUrl' => 'https://2.bp.blogspot.com/-iNh65hz8taI/VCaXzujeRSI/AAAAAAAAHo0/qM1ixClWXqA/s1600/8.jpg',
-  				'previewImageUrl' => 'https://www.img.in.th/images/af9972bd5adba50ca6098f6073e05899.jpg',
+  				'previewImageUrl' => 'http://www.flexibleproduction.com/wp-content/uploads/2017/06/test-intelligenza-sociale.jpg',
   		 	];
 			}
 			
@@ -44,7 +44,7 @@ if (!is_null($events['events'])) {
 			$messages = [
   			      'type' => 'image',
  				'originalContentUrl' => 'https://4.bp.blogspot.com/-3ZkFMGwpdQA/VCaXpjrV1PI/AAAAAAAAHmw/HhXNFoGrljI/s1600/4.jpg',
-  				'previewImageUrl' => 'https://www.img.in.th/images/af9972bd5adba50ca6098f6073e05899.jpg',
+  				'previewImageUrl' => 'http://www.flexibleproduction.com/wp-content/uploads/2017/06/test-intelligenza-sociale.jpg',
   		 	];
 			}
 			
