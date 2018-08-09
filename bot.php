@@ -34,7 +34,7 @@ if (!is_null($events['events'])) {
 			// Build message to reply back
 			$messages = [
   			      'type' => 'image',
- 				'originalContentUrl' => 'https://photos.app.goo.gl/f23Zj7ZyTKG2yp863',
+ 				'originalContentUrl' => 'https://2.bp.blogspot.com/-iNh65hz8taI/VCaXzujeRSI/AAAAAAAAHo0/qM1ixClWXqA/s1600/8.jpg',
   				'previewImageUrl' => 'https://www.img.in.th/images/af9972bd5adba50ca6098f6073e05899.jpg',
   		 	];
 			}
@@ -43,7 +43,7 @@ if (!is_null($events['events'])) {
 			// Build message to reply back
 			$messages = [
   			      'type' => 'image',
- 				'originalContentUrl' => 'https://lh3.googleusercontent.com/8Sr3TCa5AT7hckLdHl9Ut_lMlfyqNpr4sd69xVMccf8Y0mJUk8CO2POENP64chxqBEcEG_WLNmFqZtkBZa03YPThFV4yZpWvWglkkesVSKksyYcOgDEZ1-owzTL89Tdz6d2Tb5Y08Zi0Mm5SnC8-3xTfK5UDXJULV5j3Jiqm6E4zjKfOinwnXjwj2kr-kzFENqAX2G2h62ErmEGbRig79-gPAGBQOMptaQKcy68IR4uBigTaoDJszx8dWQhxqJ8hWtSWspT57f62JcWYh-jvsLrcRuG9Sf5rsv1DKCRUzofC4aQFztLhUaHHeuf7Rd9h_l0zBu9iPte1U5jHxjRsOMeahHRxpfH7pnstf2XPQXfUFAzP--TSCS5rIHjTIdhhXAUQ7QW3aKp9nmcoKJ7nMMHYoEHVs20mGCO0Ltnv54RnaHbVUmppXsy1vVeFApoNCssk0R65caFYOV64D3f9ORU_mn746Dp3X9ycleXp6J0SKEgHQO2K-cvIOI5IIV0JCGcrvh_qrhB8v8ONT_FJygFh-wPnb1GvbFqcY4ViiClkHCHDmmRjqYv5nXBvZGyONDs-qp80NdHXsVlMKqBAgN0uCj3V5Mf64kTwU2HRjc1EAg-8TaIl=w1006-h629-no',
+ 				'originalContentUrl' => 'https://4.bp.blogspot.com/-3ZkFMGwpdQA/VCaXpjrV1PI/AAAAAAAAHmw/HhXNFoGrljI/s1600/4.jpg',
   				'previewImageUrl' => 'https://www.img.in.th/images/af9972bd5adba50ca6098f6073e05899.jpg',
   		 	];
 			}
